@@ -122,3 +122,21 @@ cuida da limpeza do acampamento, a décima parte desses dois
 subgrupos colhe flores na redondeza e a única pessoa
 restante do grupo deleita-se lendo um bom livro.
 Quantos elementos tem esse grupo de amigos?
+
+- Número de pessoas no grupo = x
+- Pessoas que cuidam do almoço = $\frac{x}{3}$
+- Pessoas que cuidam da limpeza = $\frac{x}{2}$
+- Pessoas que colhem flores = $\frac{\frac{x}{3} + \frac{x}{2}}{10}$
+- Pessoa que lendo o livro = 1
+
+Representando isso na forma de equação:
+
+- x = $\frac{x}{3}$ + $\frac{x}{2}$ + $\frac{\frac{x}{3} + \frac{x}{2}}{10}$ + 1
+- x = $\frac{5x}{6}$ + $\frac{\frac{x}{3} + \frac{x}{2}}{10}$ + 1
+- x = $\frac{5x}{6}$ + $\frac{\frac{5x}{6}}{10}$ + 1
+- x = $\frac{5x}{6}$ + $\frac{5x}{60}$ + 1
+- x = $\frac{50x}{60}$ + $\frac{5x}{60}$ + 1
+- x = $\frac{55x}{60}$ + 1
+- x - $\frac{55x}{60}$ = 1 (*a fação passou para o outro lado*)
+- $\frac{x}{1}$ - $\frac{55x}{60}$ = 1
+- x = 12
