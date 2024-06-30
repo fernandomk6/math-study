@@ -1,4 +1,4 @@
-# Equações do primeiro grau 
+# Equações do primeiro grau
 
 ## Introdução
 
