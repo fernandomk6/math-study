@@ -1,2 +1,2 @@
-# math-study
+# Math Study
 Estudos sobre Matemática
