@@ -1,3 +1,3 @@
-# Math Study
+# math-study
 
-Estudos sobre Matemática
+Estudo sobre Matemática
